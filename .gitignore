@@ -2,3 +2,6 @@
 /nbactions.xml
 /.classpath
 /.project
+
+/.idea
+/*.iml
